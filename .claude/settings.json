@@ -1,0 +1,11 @@
+{
+  "extraKnownMarketplaces": {
+    "fisolution-marketplace": {
+      "source": {
+        "source": "local",
+        "path": "./.claude-plugin/marketplace.json"
+      }
+    }
+  },
+  "enabledPlugins": ["common-tools@fisolution-marketplace"]
+}
