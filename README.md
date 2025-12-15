@@ -28,7 +28,9 @@
       }
     }
   },
-  "enabledPlugins": ["common-tools@fisolution-marketplace"]
+  "enabledPlugins": {
+    "common-tools@fisolution-marketplace": true
+  }
 }
 ```
 
