@@ -1,6 +1,6 @@
 {
   "extraKnownMarketplaces": {
-    "fisolution-marketplace": {
+    "uwoobeat-marketplace": {
       "source": {
         "source": "local",
         "path": "./.claude-plugin/marketplace.json"
@@ -8,6 +8,6 @@
     }
   },
   "enabledPlugins": {
-    "common-tools@fisolution-marketplace": true
+    "common-tools@uwoobeat-marketplace": true
   }
 }

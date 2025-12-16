@@ -1,6 +1,6 @@
 # claude-commands-plugin
 
-에프아이솔루션 Claude Code 공용 도구 플러그인
+유우비트 Claude Code 공용 도구 플러그인
 
 ## 설치 방법
 
@@ -8,10 +8,10 @@
 
 ```bash
 # 마켓플레이스 추가
-/plugin marketplace add FISOLUTION/claude-commands-plugin
+/plugin marketplace add uwoobeat/claude-commands-plugin
 
 # 플러그인 설치
-/plugin install common-tools@fisolution-marketplace
+/plugin install common-tools@uwoobeat-marketplace
 ```
 
 ### 방법 2: 팀 프로젝트 자동 설치 설정
@@ -21,15 +21,15 @@
 ```json
 {
   "extraKnownMarketplaces": {
-    "fisolution-marketplace": {
+    "uwoobeat-marketplace": {
       "source": {
         "source": "github",
-        "repo": "FISOLUTION/claude-commands-plugin"
+        "repo": "uwoobeat/claude-commands-plugin"
       }
     }
   },
   "enabledPlugins": {
-    "common-tools@fisolution-marketplace": true
+    "common-tools@uwoobeat-marketplace": true
   }
 }
 ```

@@ -1,12 +1,11 @@
 {
   "name": "common-tools",
   "version": "1.0.1",
-  "description": "에프아이솔루션 Claude Code 공용 도구 플러그인",
+  "description": "유우비트 Claude Code 공용 도구 플러그인",
   "author": {
-    "name": "FISOLUTION",
-    "email": "fisdev@fisolution.co.kr"
+    "name": "uwoobeat"
   },
-  "repository": "https://github.com/FISOLUTION/claude-commands-plugin",
+  "repository": "https://github.com/uwoobeat/claude-commands-plugin",
   "license": "MIT",
   "keywords": ["commit", "pr", "issue", "context", "github", "workflow"],
   "commands": [
